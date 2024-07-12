@@ -1,0 +1,11 @@
+C:\Users\baran\Desktop\Fizzadacha\bin\Debug\Kursach_chisl_met.exe.config
+C:\Users\baran\Desktop\Fizzadacha\bin\Debug\Kursach_chisl_met.exe
+C:\Users\baran\Desktop\Fizzadacha\bin\Debug\Kursach_chisl_met.pdb
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.csproj.SuggestedBindingRedirects.cache
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\FizCHM.Form1.resources
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.Properties.Resources.resources
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.csproj.GenerateResource.cache
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.exe
+C:\Users\baran\Desktop\Fizzadacha\obj\Debug\Kursach_chisl_met.pdb
